@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome 👋
+This is the github of the **Chair of Uncertainty Quantification and Statistical Learning** at the Research Center Trustworthy Data Science and Security (UA Ruhr) and the Department of Statistics (Technische Universität Dortmund).
+We are teaching graduate courses on Bayesian statistics and machine learning and are involved in several research projects. 
+For further information please visit our [website](https://rc-trust.ai/klein/).
 
 <!--
 
