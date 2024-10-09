@@ -1,5 +1,5 @@
 ## Welcome to KleinLab!
-👋 This is the GitHub page of the **Chair of Uncertainty Quantification and Statistical Learning** at the Research Center Trustworthy Data Science and Security (UA Ruhr) and the Department of Statistics (Technische Universität Dortmund). 
+👋 This is the GitHub page of the research group **Methods for Big Data** at the Scientific Computing Center, Karlsruhe Institute of Technology (KIT). 
 
 📚 Here, you can find repositories of our research projects at the intersection of machine learning and traditional statistical methods, with a focus on Bayesian methods.
 
